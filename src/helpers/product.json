@@ -3,7 +3,7 @@
         "productCode": "MJUM8066-GYDZ",
         "name": "Lambswool Crew Neck Jumper",
         "vendor": "Sunspel",
-        "price": 75,
+        "price": 275,
         "alt": "lambswool crew neck jumper",
         "image": "/products/pdp1.jpeg",
         "colorOptions": [
@@ -24,7 +24,7 @@
     },
     {
         "name": "Classic T-Shirt",
-        "price": 75,
+        "price": 275,
         "alt": "classic t-shirt 1",
         "image": "/products/shirt1.jpg",
         "tags": ["shirt", "men"]
